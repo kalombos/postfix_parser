@@ -15,7 +15,9 @@ for email, report in stats.items():
 
     
 >>>From <import5@fmgifts.ru> was sent 3 emails successfully, 0 ones have errors and was not sent
->>>From <import5@fmgifts.ru> was sent 3 emails successfully, 0 ones have errors and was not sent
+>>>From <a.melnikov@soyuz-group.ru> was sent 1 emails successfully, 0 ones have errors and was not sent
+>>>From <pc@scan-avia.ru> was sent 3 emails successfully, 2 ones have errors and was not sent
+
 ....
 
 ```
